@@ -1,1 +1,6 @@
+numpy
+tarfile
 tensorflow
+zipfile
+matplotlib
+PIL
